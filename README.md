@@ -2,15 +2,15 @@
 ระบบหลังบ้านสำหรับธุรกิจ
 
 ## System Preview
-![overview](./images/Preview-project1.png)
+![overview](./image/Preview-project1.png)
 
-![overview](./images/Preview-project2.png)
+![overview](./image/Preview-project2.png)
 
-![overview](./images/Preview-project3.png)
+![overview](./image/Preview-project3.png)
 
-![overview](./images/Preview-project4.png)
+![overview](./image/Preview-project4.png)
 
-![overview](./images/Preview-project5.png)
+![overview](./image/Preview-project5.png)
 
 ---
 
