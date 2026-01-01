@@ -2,15 +2,15 @@
 ระบบหลังบ้านสำหรับธุรกิจ
 
 ## System Preview
-![cover](./images/cover.png)
+![overview](./images/Preview-project1.png)
 
----
+![overview](./images/Preview-project2.png)
 
-## Admin Dashboard
-![admin](./images/admin-dashboard.png)
+![overview](./images/Preview-project3.png)
 
-## Data Management
-![data](./images/data-management.png)
+![overview](./images/Preview-project4.png)
+
+![overview](./images/Preview-project5.png)
 
 ---
 
