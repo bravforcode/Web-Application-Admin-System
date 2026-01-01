@@ -1,7 +1,7 @@
 # Web Application & Admin System  
 ระบบหลังบ้านสำหรับธุรกิจ
 
-## System Preview
+## Project Preview
 ![overview](./image/Preview-project1.png)
 
 ![overview](./image/Preview-project2.png)
